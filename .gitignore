@@ -13,3 +13,4 @@ node_modules/
 *.log
 # Dotenv file
 .env
+**/.DS_Store
