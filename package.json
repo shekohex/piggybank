@@ -1,0 +1,13 @@
+{
+  "name": "piggybank",
+  "version": "1.0.0",
+  "description": "PiggyBank contract",
+  "main": "index.js",
+  "repository": "https://github.com/shekohex/piggybank",
+  "author": "Shady Khalifa <dev+github@shadykhalifa.me>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "solc": "0.8.13"
+  }
+}

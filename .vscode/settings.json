@@ -2,6 +2,5 @@
   "solidity.packageDefaultDependenciesContractsDirectory": "src",
   "solidity.packageDefaultDependenciesDirectory": "lib",
   "git.detectSubmodules": false,
-  "solidity.compileUsingRemoteVersion": "v0.8.13",
-  "solidity.defaultCompiler": "remote"
+  "solidity.defaultCompiler": "localNodeModule"
 }
