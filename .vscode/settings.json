@@ -1,5 +1,8 @@
 {
   "solidity.packageDefaultDependenciesContractsDirectory": "src",
   "solidity.packageDefaultDependenciesDirectory": "lib",
-  "git.detectSubmodules": false
+  "git.detectSubmodules": false,
+  "solidity.compileUsingRemoteVersion": "v0.8.13",
+  "solidity.defaultCompiler": "localFile",
+  "solidity.compileUsingLocalVersion": "/Users/shady/github/shekohex/piggybank/soljson-v0.8.13+commit.abaa5c0e.js"
 }
