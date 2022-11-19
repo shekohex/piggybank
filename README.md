@@ -36,6 +36,15 @@ foundry script DeployPiggyBank --rpc-url <NETWORK> --broadcast --verify -vvv
 
 Once deployed, you can interact with the contract using the Explorer like [Etherscan](https://etherscan.io/) or [Polygonscan](https://polygonscan.com/), or you can use the [Foundry Cast CLI](https://book.getfoundry.sh/cast/) to interact with the contract.
 
+## Development 🛠
+
+1. Install [Foundry](https://getfoundry.sh/)
+2. Clone this repository
+3. Copy `.env.example` to `.env` and fill the variables you need.
+4. Install `solc` compiler with just running `yarn`.
+5. Run `forge test` to run the tests.
+6. Start hacking! 🚀
+
 ## Contributing
 
 Want to join us? take a look at some of these issues:
